@@ -1,5 +1,5 @@
 # QueryTool
-A tool developed with the tkinter library, to load data and view statistical information in a GUI.
+A tool developed with the tkinter library, to load data and view statistical information in a GUI with **scrollable interfaces**.
 
 The files need to be in the same relative directory for the application to run with them.
 
